@@ -4,5 +4,5 @@ The intent of this demo is to represent how an Operations or Middleware Ops team
 
 This content can be run purely as a demo (Presenter does everything while audience watches) or as a hands on Lab where the audience gets to log into the demo cluster and play the part of Application Development Teams.
 
-_Maintainer: Eric Sauer <esauer AT redhat.com>_
-_External Repo: https://github.com/redhat-cop/ocp-supply-chain-demo_
+**_Maintainer:_** *Eric Sauer <esauer AT redhat.com>*  
+**_External Repo:_** *https://github.com/redhat-cop/ocp-supply-chain-demo*
