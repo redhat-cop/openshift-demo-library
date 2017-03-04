@@ -5,3 +5,4 @@ This repo contains a collection of demo materials for OpenShift Container Platfo
 ## List of Demos
 
 * [Image Supply Chain](image-supply-chain)
+* [Blue/Green Deployment Pipeline](bluegreen-pipeline)
